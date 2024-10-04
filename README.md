@@ -1,0 +1,1 @@
+This project demonstrates the implementation of a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The project utilizes the Bank Marketing dataset from the UCI Machine Learning Repository to train and evaluate the model.
